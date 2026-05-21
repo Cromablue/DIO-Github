@@ -22,41 +22,44 @@ Eu me chamo **José Santo**, sou estudante de [Engenharia de Software](https://w
 Principais tecnologias e linguagens que estou estudando / utilizando:
 
 ### 🐍 Python / Data / Backend
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) `Python`
-- ![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg) `FastAPI`
-- ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg) `Django`
-- ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) `TensorFlow` / `PyTorch`
-- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) `PostgreSQL`
-- ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) `Redis`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
+</p>
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="16" height="16" alt="FastAPI" /> `FastAPI`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="16" height="16" alt="Django" /> `Django`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="16" height="16" alt="TensorFlow" /> `TensorFlow` / `PyTorch`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" alt="PostgreSQL" /> `PostgreSQL`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="16" height="16" alt="Redis" /> `Redis`
 
 ### 🌐 Backend / Node
-- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) `Node.js`
-- ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) `Express`
-- ![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg) `NestJS`
-- ![JWT](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg) `JWT` + `bcrypt`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" height="16" alt="Node.js" /> `Node.js`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16" height="16" alt="Express" /> `Express`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="16" height="16" alt="NestJS" /> `NestJS`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="16" height="16" alt="JWT" /> `JWT` + `bcrypt`
 
 ### 💻 Frontend / Mobile
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) `React`
-- ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) `React Native`
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) `JavaScript`
-- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) `TypeScript`
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) `HTML5`
-- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) `CSS3`
-- ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg) `Sass`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" alt="React" /> `React`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" alt="React Native" /> `React Native`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" alt="JavaScript" /> `JavaScript`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" alt="TypeScript" /> `TypeScript`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" alt="HTML5" /> `HTML5`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" alt="CSS3" /> `CSS3`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="16" height="16" alt="Sass" /> `Sass`
 
 ### 📦 Infra / DevOps
-- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) `Docker`
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) `GitHub`
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) `Git`
-- ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg) `CI/CD`
-- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) `Linux` / `Bash`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" height="16" alt="Docker" /> `Docker`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub" /> `GitHub`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" alt="Git" /> `Git`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="16" height="16" alt="GitHub Actions" /> `CI/CD`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" height="16" alt="Linux" /> `Linux` / `Bash`
 
 ---
 
 ## Meu Objetivo
 
 Estou focado em:
-- Revizar cursos voltados pra minhas areas de conhecimento para fixar conhecimento e ser certificado.
+- Revisar cursos voltados para minhas áreas de conhecimento para fixar conhecimento e ser certificado.
 - Aprender **arquitetura de backend** moderno (APIs REST, JWT, autenticação com roles).
 - Entender **bom uso de banco de dados** e **modelagem de dados**.
 - Automatizar processos com `Docker` e `GitHub Actions`.
@@ -74,5 +77,3 @@ Esse repositório serve como:
 Você pode:
 - 👉 Copiar e adaptar o layout para seu perfil.
 - 👉 Substituir a imagem do perfil.
-
----
