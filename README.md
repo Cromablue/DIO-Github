@@ -72,3 +72,5 @@ Esse repositório serve como:
 - ✅ **Exercício de Markdown** (títulos, ícones, tabelas, links, imagens).
 - ✅ **Portfólio** para mostrar domínio básico de GitHub.
 - ✅ **Plantilha** para te ajustar a própria bio.
+
+ps: pequena edição pelo perfil owner do repositório :P
